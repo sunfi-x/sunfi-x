@@ -81,6 +81,20 @@
 
 <br/>
 
+## ♟️ Interactive Chess Game
+
+**Play a game of chess with me right here in my README!**  
+Click on a link below the board to make a move. The board will update automatically.
+
+<div align="center">
+
+<!-- BEGIN SECTION: Chess -->
+<!-- END SECTION: Chess -->
+
+</div>
+
+<br/>
+
 ## 🌟 Featured Projects
 
 | Repository | Description |

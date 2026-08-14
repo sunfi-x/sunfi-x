@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sunfi-x&theme=radical&row=1&column=7" alt="sunfi-x trophies" />
+<img src="https://komarev.com/ghpvc/?username=sunfi-x&color=2DD4BF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/>
 
@@ -64,6 +64,14 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunfi-x&theme=react-dark&hide_border=true&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=FFFFFF" alt="sunfi-x's github activity graph" width="100%" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sunfi-x/sunfi-x/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sunfi-x/sunfi-x/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/sunfi-x/sunfi-x/raw/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 

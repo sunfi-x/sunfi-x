@@ -93,8 +93,15 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-020505?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/sunfi-x)
-[![Twitter](https://img.shields.io/badge/Twitter-020505?style=for-the-badge&logo=twitter&logoColor=2DD4BF)](https://twitter.com/sunfi_x)
+<a href="https://www.linkedin.com/in/khondoker-sazzad-sunfi-3124a4325/"><img src="https://img.shields.io/badge/LinkedIn-020505?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
+<a href="https://x.com/SUNFI15"><img src="https://img.shields.io/badge/X_Twitter-020505?style=for-the-badge&logo=x&logoColor=2DD4BF" alt="X (Twitter)" /></a>
+<a href="https://www.facebook.com/sazzadsunfi/"><img src="https://img.shields.io/badge/Facebook-020505?style=for-the-badge&logo=facebook&logoColor=2DD4BF" alt="Facebook" /></a>
+<a href="https://www.instagram.com/sazzadsunfi/"><img src="https://img.shields.io/badge/Instagram-020505?style=for-the-badge&logo=instagram&logoColor=2DD4BF" alt="Instagram" /></a>
+<br/>
+<a href="https://t.me/sunfi_x"><img src="https://img.shields.io/badge/Telegram-020505?style=for-the-badge&logo=telegram&logoColor=2DD4BF" alt="Telegram" /></a>
+<a href="https://wa.me/8801309605222"><img src="https://img.shields.io/badge/WhatsApp-020505?style=for-the-badge&logo=whatsapp&logoColor=2DD4BF" alt="WhatsApp" /></a>
+<a href="mailto:sunfisazzad@gmail.com"><img src="https://img.shields.io/badge/Email-020505?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email" /></a>
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord:_sunfi__x-020505?style=for-the-badge&logo=discord&logoColor=2DD4BF" alt="Discord" /></a>
 
 </div>
 

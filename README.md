@@ -1,4 +1,6 @@
-<div align="center">
+# <div align="center">
+
+<img src="assets/profile-banner.svg" alt="Sazzad Sunfi" width="100%"/>
 
 <br/>
 

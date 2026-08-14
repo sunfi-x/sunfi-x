@@ -85,11 +85,15 @@
 
 <div align="center">
 
-**Challenge me to a game of chess! Click the board to play on Lichess 🎮**
+**Challenge me to a game of chess! Click the board to play 🎮**
 
-[![Play Chess](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.gif)](https://lichess.org/challenge/open?timeControl=unlimited&color=random&name=sunfi-x)
+<!-- BEGIN CHESS BOARD -->
+[![Play Chess](assets/chess-board.svg)](https://lichess.org/challenge/open?timeControl=unlimited&color=random&name=sunfi-x)
+<!-- END CHESS BOARD -->
 
-> 🤝 Click the board above to open a challenge → anyone can join and play!
+<br/>
+
+> 🤝 **[Click here to start a new GitHub issue game](https://github.com/sunfi-x/sunfi-x/issues/new?title=Chess%3A+Start+new+game&body=Click+Submit+New+Issue+to+start+the+game%21)** or **[Click the board to play on Lichess](https://lichess.org/challenge/open?timeControl=unlimited&color=random&name=sunfi-x)**!
 
 </div>
 

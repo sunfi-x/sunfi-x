@@ -81,15 +81,15 @@
 
 <br/>
 
-## ♟️ Interactive Chess Game
-
-**Play a game of chess with me right here in my README!**  
-Click on a link below the board to make a move. The board will update automatically.
+## ♟️ Play Chess With Me!
 
 <div align="center">
 
-<!-- BEGIN SECTION: Chess -->
-<!-- END SECTION: Chess -->
+**Challenge me to a game of chess! Click the board to play on Lichess 🎮**
+
+[![Play Chess](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.gif)](https://lichess.org/challenge/open?timeControl=unlimited&color=random&name=sunfi-x)
+
+> 🤝 Click the board above to open a challenge → anyone can join and play!
 
 </div>
 

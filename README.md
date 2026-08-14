@@ -44,7 +44,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sunfi-x&theme=radical&no-frame=true&no-bg=true)](https://github.com/sunfi-x)
+<img src="https://github-profile-trophy.vercel.app/?username=sunfi-x&theme=radical&row=1&column=7" alt="sunfi-x trophies" />
 
 <br/>
 

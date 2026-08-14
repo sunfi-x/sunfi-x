@@ -22,16 +22,19 @@
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-020505?style=for-the-badge&logo=python&logoColor=2DD4BF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-020505?style=for-the-badge&logo=javascript&logoColor=2DD4BF)
+![TypeScript](https://img.shields.io/badge/TypeScript-020505?style=for-the-badge&logo=typescript&logoColor=2DD4BF)
 ![PyTorch](https://img.shields.io/badge/PyTorch-020505?style=for-the-badge&logo=pytorch&logoColor=2DD4BF)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-020505?style=for-the-badge&logo=scikit-learn&logoColor=2DD4BF)
+![React](https://img.shields.io/badge/React-020505?style=for-the-badge&logo=react&logoColor=2DD4BF)
+![Next.js](https://img.shields.io/badge/Next.js-020505?style=for-the-badge&logo=next.js&logoColor=2DD4BF)
 ![HTML5](https://img.shields.io/badge/HTML5-020505?style=for-the-badge&logo=html5&logoColor=2DD4BF)
 ![CSS3](https://img.shields.io/badge/CSS3-020505?style=for-the-badge&logo=css3&logoColor=2DD4BF)
-![React](https://img.shields.io/badge/React-020505?style=for-the-badge&logo=react&logoColor=2DD4BF)
 ![Docker](https://img.shields.io/badge/Docker-020505?style=for-the-badge&logo=docker&logoColor=2DD4BF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-020505?style=for-the-badge&logo=kubernetes&logoColor=2DD4BF)
+![Git](https://img.shields.io/badge/Git-020505?style=for-the-badge&logo=git&logoColor=2DD4BF)
 
 </div>
 
@@ -40,6 +43,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sunfi-x&theme=radical&no-frame=true&no-bg=true)](https://github.com/sunfi-x)
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=sunfi-x&theme=radical&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub Streak" />
 
@@ -66,10 +73,11 @@
 
 | Repository | Description |
 |------------|-------------|
-| [sunfi-x/UIU_Lost_and_Found_V3.0](https://github.com/sunfi-x/UIU_Lost_and_Found_V3.0) | UIU‑এর লস্ট‑এন্ড‑ফাউন্ড সিস্টেমের তৃতীয় সংস্করণ – ডেটা সাইন্স‑ভিত্তিক রিকমেন্ডেশন ও অ্যানালিটিক্স |
-| [sunfi-x/Shuttle-Flow](https://github.com/sunfi-x/Shuttle-Flow) | ডেটা‑পাইপলাইন অর্কেস্ট্রেশন প্ল্যাটফর্ম, যা সহজে ETL/ELT ও ML‑ওয়ার্কফ্লো চালানোর জন্য Kubernetes‑এ ডিপ্লয় করা যায় |
-| [sunfi-x/Machine-Learning-Based-Prediction-of-Polycystic-Ovary-Syndrome-PCOS-](https://github.com/sunfi-x/Machine-Learning-Based-Prediction-of-Polycystic-Ovary-Syndrome-PCOS-) | PCOS রোগ নির্ণয়ের জন্য মেশিন‑লার্নিং মডেল – ডেটা প্রিপারেশন, ফিচার ইঞ্জিনিয়ারিং, এবং ব্যালেন্সড এক্যুরেসি রিপোর্ট |
-| [sunfi-x/Data-Science-Job-Market-Analysis-in-Bangladesh-2025](https://github.com/sunfi-x/Data-Science-Job-Market-Analysis-in-Bangladesh-2025) | ২০২৫‑এর জন্য বাংলাদেশে ডেটা সাইন্স চাকরির বাজারের বিশ্লেষণ, ভিজুয়ালাইজেশন & রিকমেন্ডেশন |
+| 🔍 **[UIU_Lost_and_Found_V3.0](https://github.com/sunfi-x/UIU_Lost_and_Found_V3.0)** | An AI-powered Lost and Found Management System for the United International University (UIU) campus, featuring automated matching and robust analytics. |
+| 🚀 **[Shuttle-Flow](https://github.com/sunfi-x/Shuttle-Flow)** | A lightweight ETL pipeline orchestration platform optimized for ML workflows, easily deployable to Kubernetes environments. |
+| 🧬 **[PCOS Prediction via ML](https://github.com/sunfi-x/Machine-Learning-Based-Prediction-of-Polycystic-Ovary-Syndrome-PCOS-)** | End-to-end ML model for Polycystic Ovary Syndrome diagnosis, complete with data preprocessing, feature engineering, and high accuracy reporting. |
+| 📊 **[Data Science Job Market 2025](https://github.com/sunfi-x/Data-Science-Job-Market-Analysis-in-Bangladesh-2025)** | Comprehensive data scraping, cleaning, and visualization pipeline analyzing LinkedIn to forecast data science job market trends in Bangladesh. |
+| 🛒 **[Yato-Store-BD](https://github.com/sunfi-x/Yato-Store-BD)** | A full-stack E-commerce platform architecture showcasing scalable database design, modern front-end framework integration, and robust API endpoints. |
 
 <br/>
 

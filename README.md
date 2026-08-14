@@ -10,13 +10,17 @@
 
 <br/>
 
-## 🧠 About Me
+## 🧠 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
 - 🎓 B.Sc. in Data Science student at **United International University (UIU)**, Bangladesh
 - 🤖 Passionate about **AI**, **NLP**, and **Machine Learning**
 - 🐍 Proficient in **Python**, **PyTorch**, and **JavaScript**
 - 🌱 Exploring applied ML systems and shipping side projects on GitHub
 - 📫 Reach me via issues, discussions, or email: [sunfisazzad@gmail.com](mailto:sunfisazzad@gmail.com)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quote" />
+</div>
 
 <br/>
 
